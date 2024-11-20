@@ -10,21 +10,6 @@ This repository demonstrates a deep learning-based pipeline for **Optical Charac
 - Automatic directory management for output storage.
 - CSV file handling for structured input and output.
 
----
-
-## Table of Contents
-
-- [Installation](#installation)
-- [Dependencies](#dependencies)
-- [Project Structure](#project-structure)
-- [Usage](#usage)
-- [Pipeline Details](#pipeline-details)
-  - [1. OCR](#1-ocr)
-  - [2. NER](#2-ner)
-  - [3. Entity Extraction](#3-entity-extraction)
-- [Outputs](#outputs)
-
----
 
 ## Installation
 
