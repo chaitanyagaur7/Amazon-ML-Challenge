@@ -16,8 +16,8 @@ This repository demonstrates a deep learning-based pipeline for **Optical Charac
 Clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/your_username/ocr-ner-pipeline.git
-cd ocr-ner-pipeline
+git clone https://github.com/<your_username>/Amazon-ML-Challenge.git
+cd Amazon-ML-Challenge
 pip install -r requirements.txt
 ```
 
